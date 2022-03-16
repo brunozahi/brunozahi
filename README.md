@@ -1,9 +1,8 @@
-## I'm Bruno Zahi and  I'm learning to program.
+## Studying the Python language
 </div>
-  <img align="left" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-Studying the Python language
+
 - 🖥️ I’m interested in learning more about programming
 - 🤖 I intend to seek more knowledge about artificial intelligence
 - ⌨ He/Him
