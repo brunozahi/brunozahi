@@ -1,7 +1,4 @@
 ## Studying the Python language
-</div>
-<img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
 - 🖥️ I’m interested in learning more about programming
 - 🤖 I intend to seek more knowledge about artificial intelligence
